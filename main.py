@@ -419,3 +419,4 @@ if __name__ == "__main__":
         print("🔄 Перезапуск через 5 секунд...")
         time.sleep(5)
         bot.infinity_polling(timeout=60, long_polling_timeout=60)
+        fjkhvfdjkvnjkdv
