@@ -1,1 +1,2 @@
-привет  я саша ghbdtn z 'gnintqy'
+привет  я саша ghbdtn z 'gnint
+кака
